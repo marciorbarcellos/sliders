@@ -12,7 +12,7 @@
 
 ## Preview
 
-[![Sliders Preview](https://github.com/marciorbarcellos/sliders/blob/master/sliders.gif)]
+[![Sliders Preview](https://github.com/marciorbarcellos/sliders/blob/master/sliders.gif)
 
 
 (https://github.com/marciorbarcellos/sliders)
