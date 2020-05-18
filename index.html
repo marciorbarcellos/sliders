@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/main.css" rel="stylesheet">
+    <title>Slider changes the color</title>
+</head>
+<body>
+    <h1 class="page_title">Slider changes the color<br></h1>
+      <main class="main_container">
+        <section id="Sliders">
+          <div class="container_slider">
+            <input id="slider_Str" type="range" min="0" max="255" value="0" />
+            <div id="selector">
+              <div id="SelectorBtn"></div>
+              <div id="SelectorValue" class="SelectorValue_Str"></div>
+            </div>
+            <div id="SelectorBar" class="Str"></div>
+          </div>
+          <div class="container_slider">
+            <input id="slider_Agi" type="range" min="0" max="255" value="0" />
+            <div id="selector">
+              <div id="SelectorBtn"></div>
+              <div id="SelectorValue" class="SelectorValue_Agi"></div>
+            </div>
+            <div id="SelectorBar" class="Agi"></div>
+          </div>
+          <div class="container_slider">
+            <input id="slider_Int" type="range" min="0" max="255" value="0" />
+            <div id="selector">
+              <div id="SelectorBtn"></div>
+              <div id="SelectorValue" class="SelectorValue_Int"></div>
+            </div>
+            <div id="SelectorBar" class="Int"></div>
+          </div>
+        </section>
+      </main>
+      <div id="DivSquare" class="square"></div>
+      <div id="rgbRes"  class="rgbRes"></div>
+      <script src="app.js"></script>
+</body>
+</html>
