@@ -12,5 +12,6 @@ Manipulação direta de CSS com JavaScript.
 
 ## Preview
 
-[![Sliders Preview](https://github.com/marciorbarcellos/sliders/sliders.gif)](https://github.com/marciorbarcellos/sliders)
+[![Sliders Preview](https://github.com/marciorbarcellos/sliders/sliders.gif)]
+(https://github.com/marciorbarcellos/sliders)
 
