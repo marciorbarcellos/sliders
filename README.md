@@ -1,24 +1,16 @@
-# [Bootcamp FullStack - IGTI](https://github.com/marciorbarcellos/sliders)
+# [Developers](https://github.com/marciorbarcellos/developers)
 
-[Sliders](https://github.com/marciorbarcellos/sliders) Repositório Bootcamp Full Stack IGTI.
 
-* Utilização de elementos HTML
-* Utilização de CSS
+* Utilização de elementos HTML5
+* Utilização de CSS3
 * Utilização de identificadores em elementos HTML
 * Captura de referência de elementos com JavaScript
-* Manipulação de eventos com JavaScript
+* Manipulação direta de CSS e eventos com JavaScript
 * Utilização de funções com JavaScript e CSS
-* Manipulação direta de CSS com JavaScript
 
 ## Preview
 
-[![Sliders Preview](https://github.com/marciorbarcellos/sliders/blob/master/sliders.gif)
-
+![Sliders](https://i.imgur.com/IgyptRI.gif "Sliders")
 
 (https://github.com/marciorbarcellos/sliders)
-
-
-
-
-
 
