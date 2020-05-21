@@ -1,5 +1,4 @@
-# [Developers](https://github.com/marciorbarcellos/developers)
-
+# [Sliders - Bootcamp Fullstack IGTI](https://github.com/marciorbarcellos/Sliders)
 
 * Utilização de elementos HTML5
 * Utilização de CSS3
@@ -13,4 +12,3 @@
 ![Sliders](https://i.imgur.com/IgyptRI.gif "Sliders")
 
 (https://github.com/marciorbarcellos/sliders)
-
